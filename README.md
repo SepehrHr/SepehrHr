@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SepehrHr
 - 👀 I’m interested in computer things, tennis, coding...
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C#
 - 📫 you can't reach me 😊
 
 <!---
